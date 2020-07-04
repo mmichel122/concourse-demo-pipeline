@@ -20,7 +20,7 @@ def pattern_n():
     ]
 
 if __name__ == "__main__":
-    ##separate printing:
+
     for string in pattern_f():
         print(string)
     print()
