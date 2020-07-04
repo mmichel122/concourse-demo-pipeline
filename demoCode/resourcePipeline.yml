@@ -8,5 +8,5 @@ inputs:
   - name: demoCode
 
 run:
-  path: python
-  args: [./demoCode/scripts/main.py]
+  path: ls
+  args: [-al]
